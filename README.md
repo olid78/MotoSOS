@@ -27,6 +27,7 @@ Technologies Used
 Future Improvements
 
 While MotoSOS offers an innovative solution for roadside assistance, the project is still in its early stages. Future work includes:
+
 	•	Integration with real-world garage networks for live service availability.
 	•	Offline functionality for areas with limited internet access.
 	•	Real-Time GPS Tracking for precise service locations and better response time.
