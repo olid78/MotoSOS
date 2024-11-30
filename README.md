@@ -1,3 +1,4 @@
+
 MotoSOS: Roadside Emergency Assistance
 
 MotoSOS is an innovative application designed to improve the roadside assistance experience by instantly connecting drivers with nearby mechanics and garages. With the increasing need for faster and more reliable help during roadside emergencies, MotoSOS simplifies and accelerates the process of getting assistance when it’s needed the most.
@@ -35,7 +36,3 @@ While MotoSOS offers an innovative solution for roadside assistance, the project
 	•	Real-Time GPS Tracking for precise service locations and better response time.
 	•	Voice-Activated Commands for hands-free operation during emergencies.
 
-
-Contributing
-
-We welcome contributions to MotoSOS! If you would like to improve the project, please feel free to fork the repository and submit a pull request.
