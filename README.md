@@ -1,6 +1,6 @@
 MotoSOS – Revolutionizing Roadside Assistance
 
-MotoSOS is a cutting-edge application designed to tackle the challenges of roadside emergencies. By leveraging modern technologies, it connects drivers to nearby garages and mechanics, offering a seamless, reliable, and efficient solution for unexpected breakdowns.
+MotoSOS is an application designed to tackle the challenges of roadside emergencies. By leveraging modern technologies, it connects drivers to nearby garages and mechanics, offering a seamless, reliable, and efficient solution for unexpected breakdowns.
 
 Features
 
