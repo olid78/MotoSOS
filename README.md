@@ -12,14 +12,10 @@ Key Features
 
 How It Works
 
-	1.	User Registration & Login
-Users create an account to access the services.
-	2.	Service Request
-Drivers input their location, issue description, and vehicle details.
-	3.	Connecting to Services
-MotoSOS locates the nearest available garage and dispatches the appropriate help.
-	4.	Real-Time Tracking
-Users can track the status of their request and monitor the progress until help arrives.
+	1.	User Registration & Login ; Users create an account to access the services.
+	2.	Service Request ; Drivers can input their location, issue description, and vehicle details.
+	3.	Connecting to Services ; MotoSOS locates the nearest available garage and dispatches the appropriate help.
+	4.	Real-Time Tracking ;  Users can track the status of their request and monitor the progress until help arrives.
 
 Technologies Used
 
