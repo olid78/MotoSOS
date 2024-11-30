@@ -2,15 +2,6 @@ MotoSOS – Revolutionizing Roadside Assistance
 
 MotoSOS is a cutting-edge application designed to tackle the challenges of roadside emergencies. By leveraging modern technologies, it connects drivers to nearby garages and mechanics, offering a seamless, reliable, and efficient solution for unexpected breakdowns.
 
-Table of Contents
-
-	•	Features
-	•	How It Works
-	•	Technical Details
-	•	Limitations and Future Work
-	•	Why MotoSOS?
-	•	Get Involved
-
 Features
 
 	•	Instant Connectivity: Quickly find and connect with nearby garages and mechanics.
@@ -58,16 +49,12 @@ With MotoSOS, you can:
 	•	Monitor their arrival in real-time.
 	•	Receive assistance promptly, ensuring safety and peace of mind.
 
-MotoSOS isn’t just an app; it’s a trusted companion for every driver.
 
-Get Involved
-
-We’re committed to making MotoSOS a revolutionary solution for roadside assistance. If you’d like to contribute, report an issue, or suggest enhancements, feel free to:
+If you’d like to contribute, report an issue, or suggest enhancements, feel free to:
 	•	Fork the repository.
 	•	Submit a pull request.
 	•	Open an issue.
 
 
 
-MotoSOS is more than just a project; it’s a step towards safer, smarter roads. Join us on this journey!
 
