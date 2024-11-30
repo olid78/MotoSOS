@@ -35,22 +35,6 @@ While MotoSOS offers an innovative solution for roadside assistance, the project
 	•	Real-Time GPS Tracking for precise service locations and better response time.
 	•	Voice-Activated Commands for hands-free operation during emergencies.
 
-Installation
-
-To get started with MotoSOS, follow these steps:
-	1.	Clone the repository:
-
-git clone https://github.com/olid78/MotoSOS.git
-
-
-	2.	Navigate into the project directory:
-
-cd MotoSOS
-
-
-	3.	Run the application:
-
-python app.py
 
 Contributing
 
